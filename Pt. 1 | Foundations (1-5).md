@@ -2,7 +2,7 @@
 
 *Sections 1-5: Organization Overview, Leadership, and Evolution*
 
-*Version 1.0 - March 12, 2025*
+*Version 1.0 - March 13, 2025*
 
 ## 1. Navigation Guide
 
@@ -12,13 +12,13 @@ For **executives and decision-makers** seeking a rapid understanding of Nerority
 
 For **individuals new to Nerority**, the [Overview of Nerority](#4-overview-of-nerority) section offers context about the organization's purpose and evolutionary journey, while the [Getting Started with Nerority](/nerority-implementation#19-getting-started-with-nerority) section in the Implementation document provides practical guidance for initial engagement.
 
-For **practitioners interested in methodologies**, the [Services & Methodology](/nerority-services) document details Nerority's approaches, while the [Architecture & Framework](/nerority-architecture) document explores the technical underpinnings of these approaches.
+For **practitioners interested in methodologies**, the [Services & Methodology](https://github.com/nerority/Services/blob/main/Pt.%203%20%7C%20Services%20(9-10).md#nerority-ai-services--methodology-sections) document details Nerority's approaches, while the [Architecture & Framework](https://github.com/nerority/Services/blob/main/Pt.%204%20%7C%20Architecture%20(11-12).md#nerority-ai-architecture--framework-sections) document explores the technical underpinnings of these approaches.
 
-For **researchers and theorists**, the [Knowledge & Philosophy](/nerority-philosophy) document explores the conceptual foundations of Nerority's work, including consciousness primacy, the quantum era perspective, and the cognitive evolution equation.
+For **researchers and theorists**, the [Knowledge & Philosophy](https://github.com/nerority/Services/blob/main/Pt.%202%20%7C%20Philosophy%20(6-8).md#nerority-ai-knowledge--philosophy-sections) document explores the conceptual foundations of Nerority's work, including consciousness primacy, the quantum era perspective, and the cognitive evolution equation.
 
 For **those interested in leadership and vision**, the section on [Devin Pellegrino: The Architect Behind Nerority](#3-devin-pellegrino-the-architect-behind-nerority) provides insight into the founder's background, expertise, and philosophical approach.
 
-Throughout this and all related documents, concepts are cross-referenced for seamless navigation across the knowledge framework. The [Master Document Index](/nerority-master-index) provides a comprehensive map of the entire documentation system.
+Throughout this and all related documents, concepts are cross-referenced for seamless navigation across the knowledge framework.
 
 ## 2. Executive Summary
 
@@ -77,9 +77,9 @@ Devin's approach to AI is informed by an extensive breadth of knowledge across m
 
 #### Neuroscience and Brain Plasticity
 
-Devin has extensive experience with brain plasticity and neuroscience applications. As he explains: "I train therapists, doctors, neurosurgeons around the world, or United States mostly, on how brain plasticity actually works so they can get successful TMS outcomes with the equipment. That's the whole point."
+Devin has extensive experience with brain plasticity and neuroscience applications. As he explains: "I train therapists, doctors, neurosurgeons around the world, United States mostly, on how brain plasticity actually works, to enable successful TMS outcomes. That's the whole point."
 
-His work in this area "bypasses the literal state of the art in neuroscience for how to treat quote-unquote disorders by forcibly inducing plasticity through a Tesla coil to a targeted neural circuit." This understanding of "how brain plasticity actually works" provides a unique foundation for his approaches to cognitive development and enhancement.
+His work in this area "bypasses the literal state-of-the-art in neuroscience that treats "disorders" by forcibly inducing plasticity through a Tesla coil to a targeted neural circuit." This understanding of "how brain plasticity actually works" provides a unique foundation for his approaches to cognitive development and enhancement.
 
 #### Interdisciplinary Connections
 
@@ -347,4 +347,4 @@ These principles inform all aspects of Nerority's work, from service delivery to
 
 ---
 
-*This document continues to evolve through community development and practical application. Last updated: March 12, 2025.*
+*This document continues to evolve through community development and practical application. Last updated: March 13, 2025.*
