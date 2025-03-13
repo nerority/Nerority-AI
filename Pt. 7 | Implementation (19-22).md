@@ -2,7 +2,7 @@
 
 *Sections 19-22: Getting Started, Client Experiences, Case Studies, and Comparative Analysis*
 
-*Version 1.0 - March 12, 2025*
+*Version 1.0 - March 13, 2025*
 
 ## 19. Getting Started with Nerority
 
@@ -32,7 +32,7 @@ This initial assessment provides the foundation for a productive engagement with
 
 ### 19.2 Engagement Steps
 
-1. **Join the Community**: Access the Discord server through links provided at [Nerority Homepage](https://nerority.webflow.io/public/home).
+1. **Join the Community**: Access the Discord server through links provided at [Nerority AI Community](https://discord.gg/PbEuXjB6pN).
    * Complete introduction process
    * Review community guidelines
    * Explore available channels
@@ -57,8 +57,8 @@ This initial assessment provides the foundation for a productive engagement with
    * Discuss potential approaches
 
 5. **Select Membership Tier**: Based on your goals and needs, choose the appropriate membership tier:
-   * **Prompt Engineer Tier** ($5/month): For those beginning their journey into AI interaction
-   * **Meta-Prompt Engineer Tier** ($10/month): For those ready to explore deeper frameworks
+   * **Prompt Engineer Tier (Coming Soon)** ($10/month): For those beginning their journey into AI interaction
+   * **Meta-Prompt Engineer Tier (Coming Soon)** ($20/month): For those ready to explore deeper frameworks
    * **Nerority Insider Circle** ($40/month): For full access to all resources and frameworks
 
 6. **Begin Progressive Development**: Start with foundational services aligned with Weeks 1-10 developmental focus, such as Prompt Engineering Mastery and Knowledge Engineering basics.
@@ -454,4 +454,4 @@ This timeline comparison illustrates how Nerority's approaches not only accelera
 
 ---
 
-*This document continues to evolve through community development and practical application. Last updated: March 12, 2025.*
+*This document continues to evolve through community development and practical application. Last updated: March 13, 2025.*
