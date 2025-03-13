@@ -85,6 +85,10 @@ His work in this area "bypasses the literal state of the art in neuroscience for
 
 Devin's expertise extends beyond AI to incorporate insights from:
 
+**Engineering**: His foundation in mechanical engineering (B.S. from Georgia Institute of Technology) provides structured problem-solving methodologies and design thinking that shapes his rigorous approach to AI development. This technical background includes expertise in CAD modeling, fluid management systems, hydraulic modeling, and product design, providing the structure for his creative exploration of cognitive and AI systems.
+
+**Business and Entrepreneurship**: His track record includes generating over $3M in revenue through technical sales, managing key accounts across North America, and accelerating product development through market trend analysis. This business acumen translates technical innovation into practical value through strategic consulting and product development, ensuring that advanced concepts can be effectively implemented in real-world contexts.
+
 **Cognitive Science**: He draws from principles of human cognition, learning, and decision-making to inform AI design, with particular focus on temporal perception, metacognition, and pattern recognition. His work with temporal myopia and temporal band development bridges cognitive science and AI development in novel ways.
 
 **Philosophy**: Devin explores questions of consciousness, ethics, and the nature of reality, developing a philosophical framework centered on consciousness primacy that informs all aspects of Nerority's approach. This philosophical foundation provides coherence across diverse methodological applications.
@@ -92,10 +96,6 @@ Devin's expertise extends beyond AI to incorporate insights from:
 **Quantum Mechanics**: He adapts quantum principles as inspiration for new approaches to AI and knowledge representation, developing frameworks that leverage concepts like superposition, entanglement, and non-locality to create more flexible and powerful cognitive models.
 
 **Neuroscience**: Devin bridges brain and machine through neuroscience-inspired AI architectures and principles, particularly in his work with brain plasticity and neural circuit modulation. As he notes: "I train therapists, doctors, neurosurgeons around the world, or United States mostly, on how brain plasticity actually works so they can get successful TMS outcomes with the equipment."
-
-**Engineering**: He applies systems thinking and design principles from mechanical engineering to create robust, adaptable AI architectures that can operate effectively in complex, changing environments.
-
-**Business and Entrepreneurship**: Devin translates technical innovation into practical value through strategic consulting and product development, ensuring that advanced concepts can be effectively implemented in real-world contexts.
 
 This interdisciplinary approach enables Devin to generate novel connections between seemingly disparate fields, resulting in unique frameworks that transcend traditional boundaries.
 
@@ -109,11 +109,21 @@ Devin's professional trajectory reflects a dynamic path marked by diverse roles 
 
 #### Key Professional Roles
 
-**Brain Ultimate**: Devin currently serves as Lead Engineer and Sales Manager, working with advanced neuromodulation technologies that bridge neuroscience and technology. In this role, he has developed innovative approaches to brain plasticity and neural circuit modulation that inform his understanding of cognitive development.
+**Brain Ultimate**: Devin currently serves as System Architect & Engineering Manager (since October 2023), working with advanced neuromodulation technologies that bridge neuroscience and technology. His responsibilities include cognitive mapping training, specialized advisement, software management, systems maintenance, cloud infrastructure, website management, and marketing operations. In this role, he has developed innovative approaches to brain plasticity and neural circuit modulation that inform his understanding of cognitive development.
 
-**Nerority**: As founder and driving force behind Nerority, Devin develops cutting-edge AI systems, provides expert consulting, and fosters a global community of AI enthusiasts and professionals. The organization represents the culmination of his integrative approach to AI, cognition, and human development.
+**Nerority**: Founded in January 2023, Nerority represents Devin's vision as AI Architect & Engineer. He develops cutting-edge AI systems through state-of-the-art prompt engineering, provides expert consulting, and fosters a global community of AI enthusiasts and professionals. The organization represents the culmination of his integrative approach to AI, cognition, and human development. His work includes designing complex AI workflows, innovative prompt engineering, and shaping the future of AI solution architecture.
 
-**Previous Experience**: Devin's diverse roles across engineering, data operations, and software development at companies including Unibloc Hygienic Technologies, ENCTR, and Arseal have developed a broad range of technical and business skills. This varied experience informs his ability to work across domains and integrate diverse perspectives.
+**Previous Professional Experience**: Devin's diverse roles have developed a broad range of technical and business skills:
+
+* **Unibloc Hygienic Technologies** (2022-2023): As Application Engineer, he generated over $3M in revenue designing and selling flow control solutions, managed a diverse 30-product portfolio, and mastered multiple ERP systems during a three-company merger.
+
+* **ENCTR** (2020-2022): As Data Operations Engineer, he improved SQL database performance, implemented blockchain data integrity checks, led strategic data backup initiatives, and developed automated monitoring systems via AWS cloud platforms.
+
+* **Arseal** (2019-2020): As Mechanical Engineer, he designed fluid management systems for the oil & gas industry, performed field inspections for industrial tank farms in Texas, constructed hydraulic models, conducted flow analyses, and utilized SOLIDWORKS and Plant3D for CAD modeling.
+
+* **Additional Experience**: Earlier roles include Capstone Design Lead at Kids II (2019), Design Engineering Intern at Sanus Solutions (2018), Manufacturing Engineer Intern at St Johns Bay Rum (2016), and Data and Software Engineering Intern at Monarch Fragrances (2014-2016).
+
+This varied experience informs his ability to work across domains and integrate diverse perspectives, creating a unique foundation for his innovative approaches to AI and cognitive development.
 
 #### Key Projects and Contributions
 
