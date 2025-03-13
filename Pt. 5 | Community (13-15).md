@@ -2,7 +2,7 @@
 
 *Sections 13-15: Engagement Protocol, Community Structure, and Terminology Glossary*
 
-*Version 1.0 - March 12, 2025*
+*Version 1.0 - March 13, 2025*
 
 ## 13. Engagement Protocol and Requirements
 
@@ -120,7 +120,7 @@ Nerority offers multiple tiers of engagement to accommodate different needs and 
   * Free YouTube content and demonstrations
   * Public blog posts and basic resources
 
-- **Prompt Engineer Tier**: $5/month
+- **Prompt Engineer Tier**: $10/month (Currently Disabled - Coming In Future Months)
   * Basic prompt engineering resources
   * Access to entry-level community channels
   * Foundation-level prompt libraries
@@ -128,7 +128,7 @@ Nerority offers multiple tiers of engagement to accommodate different needs and 
   * Starter templates for common use cases
   * Weekly community discussion access
 
-- **Meta-Prompt Engineer Tier**: $10/month
+- **Meta-Prompt Engineer Tier**: $20/month (Currently Disabled - Coming In Future Months)
   * Advanced prompt engineering techniques
   * Meta-prompt design resources
   * Expanded community access
@@ -181,10 +181,10 @@ These diverse channels and spaces create a rich ecosystem for learning, collabor
   - NERO Next-Gen Insider Release: February 25th
   - Open Office Hours: February 12-14, 26-28
   
-- **March 2025** (Planned):
-  - Insider Q&A Meeting: Weekend of March 8-9
-  - VIP Meeting: Weekend of March 22-23
-  - Upcoming Releases: NAMUA, NERO-Dashboard #1, Meta-Heuristic Study #2, Meta-Emoji V2.0
+- **March 2025** (Planning):
+  - Insider Q&A Meeting: March 16th
+  - VIP Meeting: March 23rd
+  - Upcoming Releases: Meta-Heuristic Study #2, Meta-Emoji V2.0
 
 This regular schedule of events provides consistent opportunities for community engagement, learning, and collaborative development.
 
@@ -199,15 +199,16 @@ This regular schedule of events provides consistent opportunities for community 
 
 These diverse platforms provide multiple access points for different types of engagement with Nerority's community and resources.
 
-### 14.5 Knowledge Repositories
+### 14.5 Knowledge Repositories (Insiders)
 
 - **NERO 2024 Dashboard**: Dashboard and assets
 - **NERO 2025 Dashboard**: Dashboard and assets
+- **NERO Dashboard #1**: Unified Content Dashboard (UCD)
 - **GitHub Repositories**: Various repositories for specific applications
 
 These repositories provide organized, structured access to Nerority's extensive knowledge base and resources.
 
-### 14.6 Core Documentation
+### 14.6 Core Documentation (Insiders)
 
 - **Hyperspace Codex**: Official textbook for Architectural Vision
 - **M5-HSC Meta-World**: Advanced complexity downscaling demonstration
@@ -378,4 +379,4 @@ These collaborative frameworks enable effective group learning, development, and
 
 ---
 
-*This document continues to evolve through community development and practical application. Last updated: March 12, 2025.*
+*This document continues to evolve through community development and practical application. Last updated: March 13, 2025.*
