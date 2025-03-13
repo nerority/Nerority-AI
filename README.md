@@ -4,9 +4,8 @@
 ![Last Updated](https://img.shields.io/badge/Updated-March%202025-green)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
-### Alpha Release Progress
-
-![Progress](https://progress-bar.dev/5/?title=Completion&width=400&color=blue)
+**Progress:**  
+▰▱▱▱▱▱▱▱▱▱ (5%)
 
 This repository presents an **Alpha Release** of version **N000**, showcasing initial development efforts toward a comprehensive knowledge system.
 
