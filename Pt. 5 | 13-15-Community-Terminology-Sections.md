@@ -190,8 +190,9 @@ This regular schedule of events provides consistent opportunities for community 
 
 ### 14.4 Online Platforms and Access Points
 
-- **Website**: [Nerority Homepage](https://nerority.webflow.io/public/home) | [Insider Hub](https://nerority.webflow.io/insiders/hub)
-- **Discord**: Nerority AI Community
+- **Website**: [Nerority Homepage](https://www.nerority.com/) | [Insider Hub](https://nerority.webflow.io/insiders/hub)
+- **GitHub**: [Advanced GPTs Showcase](https://github.com/nerority/Advanced-GPTs)
+- **Discord**: [Nerority AI Community](https://discord.gg/PbEuXjB6pN)
 - **Twitter**: NerorityAI
 - **YouTube**: DevinPellegrino
 - **Patreon**: patreon.com/Nerority (For Insider Access)
