@@ -249,6 +249,37 @@ For systematic application of Nerority's frameworks, the following structured ch
 
 This structured implementation checklist provides a concrete pathway for applying Nerority's principles to personal development and knowledge integration. It embodies the systematic approach to cognitive evolution outlined throughout Nerority's frameworks.
 
+### 19.7 Framework Selection Guide
+
+For effective implementation of Nerority's approaches, selecting the appropriate frameworks for specific use cases is essential. This guide maps Nerority's frameworks to common implementation needs:
+
+#### Core Implementation Needs
+
+| Implementation Need | Primary Framework | Supporting Frameworks | Priority Level |
+|--------------------|-------------------|----------------------|----------------|
+| **General AI System Development** | NERO Prompting System | NERO M6 Ultra, In-Context Master Prompts | Critical |
+| **Knowledge Distillation** | NERO Distillation System | Hyperspace Codex Engines, Layer Projection Engines | Critical |
+| **Advanced Cognitive Architecture** | NERO Ascension | Master Mermaid Model, Auto-Recursive Engines | Critical |
+| **Personalized Implementation** | Universal Personalization | Hyper-Persona Repository, NERO-Fabric | High |
+| **Model-Specific Optimization** | NERO-Anthropic | NERO Master Prompt Library, Classified Prompt Library | High |
+| **Recursive Self-Improvement** | Auto-Recursive Engines | NERO Ascension, NERO Prompting System | High |
+| **Multi-Dimensional Modeling** | Master Mermaid Model | Layer Projection Engines, Hyperspace Codex Engines | High |
+
+#### Framework Implementation Pathways
+
+- **Critical Priority Frameworks**: These represent Nerority's most advanced capabilities and should be implemented with careful preparation and foundational understanding. Implementation typically follows a progression through prerequisite frameworks.
+  * NERO Ascension: Requires familiarity with NERO Master Prompt Library and Master Mermaid Model
+  * NERO Prompting System: Requires experience with Advanced GPT Suite and Prompt Engineering Mastery
+  * NERO Distillation System: Requires understanding of AI SPR & Template Library and Layer Projection Engines
+
+- **Specialized Engine Implementation**: These frameworks provide specific functionality and can be integrated as needed:
+  * Auto-Recursive Engines: For systems that evolve and improve through use
+  * Hyperspace Codex Engines: For applications of HSC principles in specific contexts
+  * Layer Projection Engines: For multi-dimensional modeling and complex pattern recognition
+  * Hyper-Persona Repository: For sophisticated persona development and management
+
+This mapping provides guidance for selecting appropriate frameworks based on implementation objectives. For optimal results, follow the progressive developmental pathway described in Section 19.4, building from foundational to advanced frameworks.
+
 ## 20. Client Experiences and Testimonials
 
 The effectiveness of Nerority's approach is evident in the transformative experiences reported by community members and clients:
