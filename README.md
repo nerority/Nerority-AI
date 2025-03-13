@@ -1,4 +1,4 @@
-# Nerority AI: Comprehensive Service Offerings
+# Nerority AI: Master Model
 
 ![Version](https://img.shields.io/badge/Version-N000%20Alpha-orange)
 ![Last Updated](https://img.shields.io/badge/Updated-March%202025-green)
