@@ -11,13 +11,13 @@ A comprehensive knowledge system documenting Nerority's philosophical foundation
 | Document | Content |
 |----------|---------|
 | **[Foundation](https://github.com/nerority/Services/blob/main/Pt.%201%20%7C%20Foundations%20(1-5).md#nerority-ai-foundation-sections)** | Organization overview and leadership |
-| **Philosophy** | Knowledge domains and core principles |
-| **Services** | Detailed service descriptions |
-| **Architecture** | Meta-awareness and framework components |
-| **Community** | Engagement protocols and terminology |
-| **Evolution** | Developmental milestones and vision |
-| **Implementation** | Getting started and case studies |
-| **Resources** | Implementation resources and appendices |
+| **[Philosophy](https://github.com/nerority/Services/blob/main/Pt.%202%20%7C%20Philosophy%20(6-8).md#nerority-ai-knowledge--philosophy-sections)** | Knowledge domains and core principles |
+| **[Services](https://github.com/nerority/Services/blob/main/Pt.%203%20%7C%20Services%20(9-10).md#nerority-ai-services--methodology-sections)** | Detailed service descriptions |
+| **[Architecture](https://github.com/nerority/Services/blob/main/Pt.%204%20%7C%20Architecture%20(11-12).md#nerority-ai-architecture--framework-sections)** | Meta-awareness and framework components |
+| **[Community](https://github.com/nerority/Services/blob/main/Pt.%205%20%7C%20Community%20(13-15).md#nerority-ai-community--terminology-sections)** | Engagement protocols and terminology |
+| **[Evolution](https://github.com/nerority/Services/blob/main/Pt.%206%20%7C%20Evolution%20(16-18).md#nerority-ai-evolution--vision-sections)** | Developmental milestones and vision |
+| **[Implementation](https://github.com/nerority/Services/blob/main/Pt.%207%20%7C%20Implementation%20(19-22).md#nerority-ai-implementation--cases-sections)** | Getting started and case studies |
+| **[Resources](https://github.com/nerority/Services/blob/main/Pt.%208%20%7C%20Resources%20(23-26).md#nerority-ai-resources--appendices-sections)** | Implementation resources and appendices |
 
 ## 🚀 Getting Started
 
