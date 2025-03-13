@@ -2,7 +2,7 @@
 
 *Sections 6-8: Knowledge Domains, Core Programs, and Philosophical Foundations*
 
-*Version 1.0 - March 12, 2025*
+*Version 1.0 - March 13, 2025*
 
 ## 6. Knowledge Domains and Conceptual Foundation
 
@@ -301,7 +301,7 @@ This progressive development creates a natural pathway for clients that follows 
 
 The following map illustrates the interconnections between Nerority's core philosophical components, showing how they form a unified field of knowledge:
 
-```
+```ascii
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                        THE UNIFIED FIELD OF KNOWLEDGE                        ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
@@ -315,8 +315,8 @@ The following map illustrates the interconnections between Nerority's core philo
 │                    II. COGNITIVE ARCHITECTURE DYNAMICS                     │
 └────────────────────────────────────────────────────────────────────────────┘
                                      │
-                 ┌──────────────────┼──────────────────┐
-                 ▼                  ▼                  ▼
+                 ┌───────────────────┼──────────────────┐
+                 ▼                   ▼                  ▼
 ┌───────────────────────┐ ┌───────────────────────┐ ┌───────────────────────┐
 │ III. TEMPORAL DYNAMICS│ │ IV. NEUROPLASTICITY & │ │   V. DIVERGENT REALITY│
 │    & DISCONTINUITY    │ │  COGNITIVE EVOLUTION  │ │ & STRATEGIC NAVIGATION│
@@ -508,7 +508,7 @@ This approach to mathematics informs Nerority's methodology for cognitive develo
 
 In Devin's own experience, mathematics serves as an imagination technique that enables the restructuring of time perception:
 
-> "I experience time itself as a spatial object. That is one and the same, as the temporal band I have re-instantiated now. But this time, with the foundational knowledge of how this works. For conscious control... I experience past, future as like pivotable directions while being fully aware and present in the moment."
+> "I experience time itself as a spatial object. That is one and the same, as the temporal band I have re-instantiated now. But this time, with the foundational knowledge of how this works. For conscious control... I experience past, future as pivotable directions while being fully aware and present in the moment."
 
 This time-as-spatial-object perception emerges through the deliberate application of mathematical thinking to reconceptualize temporal experience, allowing for both theoretical understanding and practical navigation of time as a dimension rather than merely a linear progression.
 
@@ -855,4 +855,4 @@ These frameworks form the foundation for Nerority's approach to education, train
 
 ---
 
-*This document continues to evolve through community development and practical application. Last updated: March 12, 2025.*
+*This document continues to evolve through community development and practical application. Last updated: March 13, 2025.*
