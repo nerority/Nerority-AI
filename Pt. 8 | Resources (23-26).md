@@ -305,8 +305,8 @@ This appendix provides a comprehensive directory of Nerority resources, organize
 
 #### 26.4.2 Prompt Engineer Tier Resources (Coming Soon)
 
-| Resource | Description | Access Location |
-|----------|-------------|----------------|
+| Resource | Description |
+|----------|-------------|
 | **PE Fundamentals Guide** | Comprehensive introduction to prompt engineering principles |
 | **System Prompt Blueprints** | Templates for effective system prompt construction |
 | **Pattern Recognition Exercises** | Structured activities for developing pattern recognition skills |
@@ -314,8 +314,8 @@ This appendix provides a comprehensive directory of Nerority resources, organize
 
 #### 26.4.3 Meta-Prompt Engineer Tier Resources (Coming Soon)
 
-| Resource | Description | Access Location |
-|----------|-------------|----------------|
+| Resource | Description |
+|----------|-------------|
 | **MPE Implementation Guide** | Comprehensive guide to meta-prompt engineering |
 | **Sparse Priming Workshop** | Training materials for SPR implementation |
 | **Knowledge Structure Templates** | Frameworks for knowledge organization and integration |
