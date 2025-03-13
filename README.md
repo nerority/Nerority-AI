@@ -10,8 +10,8 @@ A comprehensive knowledge system documenting Nerority's philosophical foundation
 
 | Document | Content | File Link |
 |----------|---------|-----------|
-| **Foundation** | Organization overview and leadership | [1-5-Foundation-Sections.md](1-5-Foundation-Sections.md) |
-| **Philosophy** | Knowledge domains and core principles | [6-8-Knowledge-Philosophy-Sections.md](6-8-Knowledge-Philosophy-Sections.md) |
+| **Foundation** | Organization overview and leadership | [Pt. 1 | Foundations (1-5)](Pt. 1 | Foundations (1-5).md) |
+| **Philosophy** | Knowledge domains and core principles | [Pt. 2 | Philosophy (6-8)](Pt. 2 | Philosophy (6-8).md) |
 | **Services** | Detailed service descriptions | [9-10-Services-Methodology-Sections.md](9-10-Services-Methodology-Sections.md) |
 | **Architecture** | Meta-awareness and framework components | [11-12-Architecture-Framework-Sections.md](11-12-Architecture-Framework-Sections.md) |
 | **Community** | Engagement protocols and terminology | [13-15-Community-Terminology-Sections.md](13-15-Community-Terminology-Sections.md) |
