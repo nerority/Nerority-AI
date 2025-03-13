@@ -589,10 +589,39 @@ Nerority's framework implementation relies on a carefully designed ecosystem of 
 - Flash models useful for architectural tasks or repetitive operations with free unlimited usage
 - Updates anticipated that may change this assessment
 
-#### Core Nerority Models
-- **M5**: For Architectural Vision Structuring
-- **HIDE**: Hyperdimensional Insight Distillation Engine
-- **ASCENSION**: Dual-State Self-Grokked Future Living Architecture
+#### Nerority Framework Ecosystem
+
+Nerority's assets are organized into a structured catalog with distinct categories:
+
+**PE Models (Primary Frameworks)**
+- **Universal Personalization**
+- **Master Mermaid Model**
+- **NERO Ascension**
+- **NERO M6 Ultra**
+- **NERO Prompting System**
+- **NERO Distillation System**
+
+**PE Library (Implementation Resources)**
+- **Core Collections**:
+  * Mastering GPT-4 Collection
+  * Content Creation Collection
+  * Advanced GPT Suite
+  * Prompt Engineering Mastery
+  * SPR Template Library
+
+- **Master Prompt Resources**:
+  * NERO Master Prompts
+  * NERO-Anthropic
+  * NERO-Fabric
+  * NERO Master Prompt Library
+  * In-Context Master Prompts
+  * Classified Prompt Library
+
+- **Specialized Engines**:
+  * Auto-Recursive Engines
+  * Hyperspace Codex Engines
+  * Layer Projection Engines
+  * Hyper-Persona Repository
 
 #### Implementation Primes (Gemini)
 - **NERO-ASCENSION**: Advanced framework integration
