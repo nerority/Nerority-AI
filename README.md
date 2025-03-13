@@ -8,16 +8,16 @@ A comprehensive knowledge system documenting Nerority's philosophical foundation
 
 ## 🧭 Navigation
 
-| Document | Content | File Link |
-|----------|---------|-----------|
-| **Foundation** | Organization overview and leadership | [Pt. 1 | Foundations (1-5)](Pt. 1 | Foundations (1-5).md) |
-| **Philosophy** | Knowledge domains and core principles | [Pt. 2 | Philosophy (6-8)](Pt. 2 | Philosophy (6-8).md) |
-| **Services** | Detailed service descriptions | [9-10-Services-Methodology-Sections.md](9-10-Services-Methodology-Sections.md) |
-| **Architecture** | Meta-awareness and framework components | [11-12-Architecture-Framework-Sections.md](11-12-Architecture-Framework-Sections.md) |
-| **Community** | Engagement protocols and terminology | [13-15-Community-Terminology-Sections.md](13-15-Community-Terminology-Sections.md) |
-| **Evolution** | Developmental milestones and vision | [16-18-Evolution-Vision-Sections.md](16-18-Evolution-Vision-Sections.md) |
-| **Implementation** | Getting started and case studies | [19-22-Implementation-Cases-Sections.md](19-22-Implementation-Cases-Sections.md) |
-| **Resources** | Implementation resources and appendices | [23-26-Resources-Appendices-Sections.md](23-26-Resources-Appendices-Sections.md) |
+| Document | Content |
+|----------|---------|
+| **Foundation** | Organization overview and leadership |
+| **Philosophy** | Knowledge domains and core principles |
+| **Services** | Detailed service descriptions |
+| **Architecture** | Meta-awareness and framework components |
+| **Community** | Engagement protocols and terminology |
+| **Evolution** | Developmental milestones and vision |
+| **Implementation** | Getting started and case studies |
+| **Resources** | Implementation resources and appendices |
 
 ## 🚀 Getting Started
 
