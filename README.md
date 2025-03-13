@@ -10,7 +10,7 @@ A comprehensive knowledge system documenting Nerority's philosophical foundation
 
 | Document | Content |
 |----------|---------|
-| **Foundation** | Organization overview and leadership |
+| **[Foundation](https://github.com/nerority/Services/blob/main/Pt.%201%20%7C%20Foundations%20(1-5).md#nerority-ai-foundation-sections)** | Organization overview and leadership |
 | **Philosophy** | Knowledge domains and core principles |
 | **Services** | Detailed service descriptions |
 | **Architecture** | Meta-awareness and framework components |
