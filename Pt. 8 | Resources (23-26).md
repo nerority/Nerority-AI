@@ -10,12 +10,11 @@ This section provides practical resources for implementing Nerority's approaches
 
 ### 23.1 Framework Implementation Resources
 
-| Framework | Key Documentation | Implementation Guide | Visual Reference | Starter Templates |
-|-----------|-------------------|----------------------|------------------|------------------|
-| **Meta-Functional Control** | NERO 2024 Dashboard | [PE Fundamentals Guide](https://nerority.webflow.io/public/resources) | [Prompt Architecture Diagram](#visual-framework-representations) | System Prompt Blueprint |
-| **Sparse Priming Representations** | Hyperspace Codex Ch. 3-4 | [SPR Implementation Guide](https://nerority.webflow.io/insiders/resources) | [Many-shot Projection Diagram](#visual-framework-representations) | Priming Context Templates |
-| **Living Systems Architecture** | NI-000 Video Recording | [Living Systems Workshop](https://nerority.webflow.io/insiders/workshops) | [Bifurcated Reality Diagram](#visual-framework-representations) | System Architecture Scaffold |
-| **NERO-ASCENSION** | NERO-ASCENSION Documentation | [Ascension Implementation Guide](https://nerority.webflow.io/insiders/ascension) | [Hyperspace Engineering Paradigm](#visual-framework-representations) | Integration Blueprint |
+| Framework | Key Documentation |
+|-----------|-------------------|
+| **Meta-Functional Control** | NERO-M5 |
+| **Hyperspace Engineering** | The Hyperspace Codex |
+| **Living Systems Architecture** | Video Recordings |
 
 These resources provide comprehensive support for implementing Nerority's core frameworks across various applications and contexts.
 
@@ -300,42 +299,41 @@ This appendix provides a comprehensive directory of Nerority resources, organize
 
 | Resource | Description | Access Location |
 |----------|-------------|----------------|
-| **NP Video Series** | Public demonstrations and tutorials on foundational concepts | [YouTube - DevinPellegrino](https://youtube.com/@DevinPellegrino) |
-| **Public Blog** | Articles on key concepts and approaches | [Nerority Homepage](https://nerority.webflow.io/public/home) |
-| **Public Discord Channels** | General discussion and community introduction | [Discord Invite](https://nerority.webflow.io/public/discord) |
-| **Public GPT Interfaces** | Basic implementations of Nerority frameworks | [Nerority Homepage](https://nerority.webflow.io/public/home) |
+| **NP Video Series** | Public demonstrations and tutorials on foundational concepts |
+| **Public Discord Channels** | General discussion and community introduction |
+| **Public GPT Interfaces** | Basic implementations of Nerority frameworks |
 
-#### 26.4.2 Prompt Engineer Tier Resources
-
-| Resource | Description | Access Location |
-|----------|-------------|----------------|
-| **PE Fundamentals Guide** | Comprehensive introduction to prompt engineering principles | [Nerority PE Resources](https://nerority.webflow.io/members/pe) |
-| **System Prompt Blueprints** | Templates for effective system prompt construction | [Nerority PE Resources](https://nerority.webflow.io/members/pe) |
-| **Pattern Recognition Exercises** | Structured activities for developing pattern recognition skills | [Nerority PE Resources](https://nerority.webflow.io/members/pe) |
-| **PE Community Channels** | Focused discussion on prompt engineering techniques | [Discord - PE Channels](https://nerority.webflow.io/members/discord) |
-
-#### 26.4.3 Meta-Prompt Engineer Tier Resources
+#### 26.4.2 Prompt Engineer Tier Resources (Coming Soon)
 
 | Resource | Description | Access Location |
 |----------|-------------|----------------|
-| **MPE Implementation Guide** | Comprehensive guide to meta-prompt engineering | [Nerority MPE Resources](https://nerority.webflow.io/members/mpe) |
-| **Sparse Priming Workshop** | Training materials for SPR implementation | [Nerority MPE Resources](https://nerority.webflow.io/members/mpe) |
-| **Knowledge Structure Templates** | Frameworks for knowledge organization and integration | [Nerority MPE Resources](https://nerority.webflow.io/members/mpe) |
-| **MPE Community Channels** | Advanced discussion on meta-prompt engineering | [Discord - MPE Channels](https://nerority.webflow.io/members/discord) |
+| **PE Fundamentals Guide** | Comprehensive introduction to prompt engineering principles |
+| **System Prompt Blueprints** | Templates for effective system prompt construction |
+| **Pattern Recognition Exercises** | Structured activities for developing pattern recognition skills |
+| **PE Community Channels** | Focused discussion on prompt engineering techniques |
+
+#### 26.4.3 Meta-Prompt Engineer Tier Resources (Coming Soon)
+
+| Resource | Description | Access Location |
+|----------|-------------|----------------|
+| **MPE Implementation Guide** | Comprehensive guide to meta-prompt engineering |
+| **Sparse Priming Workshop** | Training materials for SPR implementation |
+| **Knowledge Structure Templates** | Frameworks for knowledge organization and integration |
+| **MPE Community Channels** | Advanced discussion on meta-prompt engineering |
 
 #### 26.4.4 Nerority Insider Circle Resources
 
-| Resource | Description | Access Location |
-|----------|-------------|----------------|
-| **Hyperspace Codex** | Complete textbook for Architectural Vision | [NERO∘HUB](https://nerority.webflow.io/insiders/hub) |
-| **NERO-ASCENSION Documentation** | Comprehensive guide to the ultimate framework | [NERO∘HUB](https://nerority.webflow.io/insiders/hub) |
-| **NI Video Series** | Advanced demonstrations and implementations | [NERO∘HUB](https://nerority.webflow.io/insiders/hub) |
-| **Insider Workshops** | Recorded and live training sessions | [NERO∘HUB](https://nerority.webflow.io/insiders/hub) |
-| **Insider Community Channels** | Full access to all specialized discussion channels | [Discord - Insider Channels](https://nerority.webflow.io/insiders/discord) |
-| **Framework Implementation Tools** | Complete toolkit for all frameworks | [NERO∘HUB](https://nerority.webflow.io/insiders/hub) |
-| **VIP Meetings** | Regular interactive sessions with Devin and the community | [Event Calendar](https://nerority.webflow.io/insiders/events) |
-| **Emergent Mind Academy** | Comprehensive course (coming soon) | [NERO∘HUB](https://nerority.webflow.io/insiders/hub) |
+| Resource | Description |
+|----------|-------------|
+| **Hyperspace Codex** | Complete textbook for Architectural Vision |
+| **NERO Model Family** | Complete NERO Model Family Access |
+| **NI Video Series** | Advanced demonstrations and implementations |
+| **Insider Workshops** | Recorded and live training sessions |
+| **Insider Community Channels** | Full access to all specialized discussion channels |
+| **Framework Implementation Tools** | Complete toolkit for all frameworks |
+| **VIP Meetings** | Regular interactive sessions with Devin and the community |
+| **Emergent Mind Academy** | Comprehensive course (coming soon) |
 
 ---
 
-*This document continues to evolve through community development and practical application. Last updated: March 12, 2025.*
+*This document continues to evolve through community development and practical application. Last updated: March 13, 2025.*
