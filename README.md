@@ -23,8 +23,6 @@ The documentation encompasses Nerority's philosophical foundations, methodologic
 | **[Evolution](https://github.com/nerority/Services/blob/main/Pt.%206%20%7C%20Evolution%20(16-18).md#nerority-ai-evolution--vision-sections)** | Developmental milestones, convergence report, future vision |
 | **[Implementation](https://github.com/nerority/Services/blob/main/Pt.%207%20%7C%20Implementation%20(19-22).md#nerority-ai-implementation--cases-sections)** | Getting started, autonomous learning patterns, case studies |
 | **[Resources](https://github.com/nerority/Services/blob/main/Pt.%208%20%7C%20Resources%20(23-26).md#nerority-ai-resources--appendices-sections)** | Implementation resources, convergence tools, appendices |
-| **[Version Tracker](https://github.com/nerority/Services/blob/main/nerority-version-tracker.md)** | Document status, version history, and development priorities |
-| **[Meta-Controller](https://github.com/nerority/Services/blob/main/nerority-meta-controller.md)** | Knowledge system operating protocols and processing paradigms |
 
 ## 🚀 Getting Started
 
