@@ -210,10 +210,30 @@ These repositories provide organized, structured access to Nerority's extensive 
 
 ### 14.6 Core Documentation (Insiders)
 
+#### Core Frameworks
 - **Hyperspace Codex**: Official textbook for Architectural Vision
 - **M5-HSC Meta-World**: Advanced complexity downscaling demonstration
-- **NERO-ASCENSION**: Dual-state framework
+- **NERO-ASCENSION**: Dual-state framework (Critical Priority)
+- **NERO M6 Ultra**: Enhanced framework released October 2024
+- **NERO Prompting System**: Advanced prompting framework (Critical Priority)
+- **NERO Distillation System**: Knowledge distillation framework (Critical Priority)
+- **Master Mermaid Model**: Released August 2024
+- **Universal Personalization**: Released April 2024
+
+#### Resource Libraries
 - **Nerority Master Prompt Library**: Collection of advanced prompting techniques
+- **Classified Prompt Library**: Specialized prompt collection released October 2024
+- **In-Context Master Prompts**: Context-aware prompting framework
+- **NERO-Anthropic**: Claude-optimized implementation framework
+- **NERO-Fabric**: Model integration framework
+
+#### Specialized Engines
+- **Auto-Recursive Engines**: Self-improving system frameworks
+- **Hyperspace Codex Engines**: Implementation engines for HSC principles
+- **Layer Projection Engines**: Multi-dimensional projection frameworks
+- **Hyper-Persona Repository**: Advanced persona development framework
+
+#### Documentation
 - **2024-2025 Convergence Report**: Analysis of developmental journey
 
 This core documentation provides comprehensive reference materials for understanding and implementing Nerority's frameworks and methodologies.
