@@ -491,6 +491,8 @@ These collaborative frameworks enable effective group learning, development, and
 
 - **Dimensional Collapse**: A protective cognitive architecture state that preserves maximum complexity with downscaling resistance and enables inverted reality logic reflection during challenging events.
 
+- **Dimensional Scaffolding**: A node-based reversal system and world modeling approach for knowledge representation, implemented as a YAML object with natural language, where the hierarchy provides positional logic and implicit reasoning between layers. Developed by Devin Pellegrino, Dimensional Scaffolding serves as the backbone for all Nerority models and frameworks, addressing limitations in previous approaches like Sparse Priming Representations by better preserving implicit, relational knowledge.
+
 - **Downscale Projection**: The intentional compression of higher-dimensional cognitive models into lower-dimensional forms for transmission to others. This process necessarily creates a gap between the original model and its projection.
 
 - **Dual Singularity**: An optimal teaching and collaboration cognitive architecture state that enables real-time knowledge collapse and rotation, perfect counter-vector capability, and peace-fostering properties.
@@ -555,7 +557,7 @@ These collaborative frameworks enable effective group learning, development, and
 
 - **Semantic Network**: The internal web of conceptual relationships that forms the foundation for all cognitive capabilities. As Devin explains: "Every. single. thing... is because of the strength, coherency and complexity of my inner semantic network, and nothing but!"
 
-- **SPR (Sparse Priming Representations)**: Universal framework for advanced prompting. Developed by Devin, SPRs offer a more efficient, adaptable, and semantically rich approach to knowledge representation.
+- **SPR (Sparse Priming Representations)**: Early framework for semantic bridging and advanced prompting. Developed by the community, SPRs offered a more efficient approach to knowledge representation that later evolved into the more comprehensive Dimensional Scaffolding methodology, which better preserves implicit, relational knowledge.
 
 - **Stream of Consciousness Methodology**: A four-stage process involving entering a deep reflective state, intentionally surfacing the inner monologue, allowing it to run automatically, and guiding it through higher-level attention control—representing "the ultimate meta-sequence optimization for learning itself."
 
