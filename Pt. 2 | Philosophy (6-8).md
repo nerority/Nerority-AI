@@ -129,7 +129,7 @@ Nerority's domain expertise has evolved through systematic research and communit
 
 - **Meta-Functional Control (MFC)**: Introduced in Week 1, this revolutionary paradigm shift moved beyond traditional prompt engineering to shape AI cognitive processes at a fundamental level.
 
-- **Sparse Priming Representations (SPR)**: Emerged in Week 6 as a unifying framework that provides a universal theory for advanced prompting, demonstrating that all previous techniques were aspects of the same fundamental reality.
+- **Sparse Priming Representations (SPR)**: Emerged in Week 6 as a unifying framework for semantic bridging and advanced prompting, demonstrating that all previous techniques were aspects of the same fundamental reality. SPRs later evolved into the more sophisticated Dimensional Scaffolding approach, which addressed SPR limitations in representing rich, implicit relationships through hierarchical positional logic.
 
 - **Living Systems Architecture**: Developed through Weeks 7-14, this approach treats AI systems not as tools but as living, breathing organisms requiring careful cultivation rather than forced control.
 
